@@ -1,4 +1,4 @@
-# bookshelf   阅读轨迹
+# bookshelf   阅读轨迹&札记
 
 # 已阅读
 
