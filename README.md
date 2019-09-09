@@ -74,31 +74,32 @@
   5. The Structure and Interpretation of Computer Programs （《计算机程序的构造和解释》）
   6. Design Patterns （《设计模式》）
   7. Refactoring （《重构》）
-  8. 《深入解析Windows操作系统
-  9. 《UNIX编程艺术
-  10. 代码优化：有效使用内存
-  11. 深入理解LINUX内核
-  12. TCP/IP 详解
-  13. 软件随想录
-  16. 编程人生
-  17. The Mythical Man-Month （《人月神话》）
-  18. Introduction to Algorithms （《算法导论》）
-  19. 快速软件开发——有效控制与完成进度计划
-  20. IT项目管理那些事儿
-  21. 走出软件作坊
-  22. Compilers （龙书）
-  23. 梦断代码
+  8. 《深入解析Windows操作系统》
+  9. 《UNIX编程艺术》
+  10. 《代码优化：有效使用内存》
+  11. 《深入理解LINUX内核》
+  12. 《TCP/IP 详解》
+  13. 《软件随想录》
+  16. 《编程人生》
+  17. 《The Mythical Man-Month》 （《人月神话》）
+  18. 《Introduction to Algorithms》 （《算法导论》）
+  19. 《快速软件开发——有效控制与完成进度计划》
+  20. 《IT项目管理那些事儿》
+  21. 《走出软件作坊》
+  22. 《Compilers》 （龙书）
+  23. 《梦断代码》
+  24.《代码大全》
   
 
 
 ### 非技术书籍
 
-  1. 浪潮之巅
-  2. 杰克·韦尔奇自传
-  3. 盛田昭夫
-  4. 你的灯亮着吗?——发现问题的真正所在
-  5. 最后期限
-  6. 重来
+  1. 《浪潮之巅》
+  2. 《杰克·韦尔奇自传》
+  3. 《盛田昭夫》
+  4. 《你的灯亮着吗?——发现问题的真正所在》
+  5. 《最后期限》
+  6. 《重来》
 
 记录格式： 
 《时间的朋友》    个人评分：    [读后感](https://supertrampai.com/)  
